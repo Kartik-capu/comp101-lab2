@@ -1,0 +1,16 @@
+Lab 2 Question: 
+
+You have created a GitHub repository and want to share it with your friend Bob by 
+sending him the repository link. When Bob clicks the link in his web browser, some 
+communication happens over the internet. Explain step by step what happens using the 
+concepts of client and server. In your explanation, make sure to mention:
+
+• Which device acts as the client
+• Which device acts as the server
+• How Bob’s browser requests the repository content
+• How the server responds and sends the content back to Bob
+
+1. Bob's device acts as the client.
+2. My device acts as the server.
+3. The link which I have created by making my GitHub respiratory requires requests access from the client's device which is Bob's device.
+4. The server will immediately responds, just after the Bob will click the link which I have shared with Bob and all the content created on my device will be visible to Bob.
